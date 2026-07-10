@@ -1,0 +1,7 @@
+streamlit
+langchain-community
+langchain-groq
+langchain-core
+chromadb
+sentence-transformers
+rank_bm25
