@@ -1,7 +1,0 @@
-streamlit
-langchain-groq
-langchain-community
-rank_bm25
-chromadb
-sentence-transformers
-plotly
