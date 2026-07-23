@@ -1,7 +1,34 @@
-{
-  "open": 56,
-  "science": 51,
-  "arab": 43,
-  "region": 33,
-  "research": 31
-}
+[
+  [
+    "open",
+    56
+  ],
+  [
+    "science",
+    51
+  ],
+  [
+    "arab",
+    43
+  ],
+  [
+    "region",
+    33
+  ],
+  [
+    "research",
+    31
+  ],
+  [
+    "regional",
+    25
+  ],
+  [
+    "need",
+    25
+  ],
+  [
+    "example",
+    24
+  ]
+]

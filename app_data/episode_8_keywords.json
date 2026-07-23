@@ -1,7 +1,34 @@
-{
-  "journals": 225,
-  "african": 181,
-  "online": 175,
-  "journal": 90,
-  "doi": 84
-}
+[
+  [
+    "journals",
+    225
+  ],
+  [
+    "african",
+    181
+  ],
+  [
+    "online",
+    175
+  ],
+  [
+    "journal",
+    90
+  ],
+  [
+    "doi",
+    84
+  ],
+  [
+    "dois",
+    80
+  ],
+  [
+    "ajol",
+    66
+  ],
+  [
+    "digital",
+    50
+  ]
+]

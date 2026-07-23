@@ -1,7 +1,34 @@
-{
-  "open": 52,
-  "research": 39,
-  "science": 33,
-  "morocco": 28,
-  "scientific": 22
-}
+[
+  [
+    "open",
+    52
+  ],
+  [
+    "research",
+    39
+  ],
+  [
+    "science",
+    33
+  ],
+  [
+    "morocco",
+    28
+  ],
+  [
+    "scientific",
+    22
+  ],
+  [
+    "information",
+    19
+  ],
+  [
+    "access",
+    19
+  ],
+  [
+    "researchers",
+    18
+  ]
+]

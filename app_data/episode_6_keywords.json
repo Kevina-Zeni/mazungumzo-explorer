@@ -1,7 +1,34 @@
-{
-  "research": 101,
-  "hospital": 29,
-  "hospitals": 28,
-  "science": 24,
-  "healthcare": 19
-}
+[
+  [
+    "research",
+    101
+  ],
+  [
+    "hospital",
+    29
+  ],
+  [
+    "hospitals",
+    28
+  ],
+  [
+    "science",
+    24
+  ],
+  [
+    "healthcare",
+    19
+  ],
+  [
+    "able",
+    17
+  ],
+  [
+    "management",
+    15
+  ],
+  [
+    "communication",
+    14
+  ]
+]

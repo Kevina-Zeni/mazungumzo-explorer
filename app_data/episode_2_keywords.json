@@ -1,7 +1,34 @@
-{
-  "community": 49,
-  "people": 40,
-  "open": 35,
-  "science": 32,
-  "trying": 28
-}
+[
+  [
+    "community",
+    49
+  ],
+  [
+    "people",
+    40
+  ],
+  [
+    "open",
+    35
+  ],
+  [
+    "science",
+    32
+  ],
+  [
+    "trying",
+    28
+  ],
+  [
+    "local",
+    24
+  ],
+  [
+    "africa",
+    16
+  ],
+  [
+    "network",
+    16
+  ]
+]

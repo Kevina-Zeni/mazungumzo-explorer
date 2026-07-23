@@ -2,341 +2,409 @@
   {
     "speaker": "Podcast Intro",
     "start": 1.485,
+    "end": 17.264,
     "text": "Welcome to Mazum Gumzo, African Scholarly Conversations, a podcast that highlights the perspectives of various stakeholders in academia and research fields across Africa through open dialogue of Mazum Gumzo on scholarly communication in Africa."
   },
   {
     "speaker": "Joy Owango",
     "start": 20.85,
-    "text": "Welcome to Mazungumzu, African Scholarly Conversations, where we are joined by an expansive list of African policymakers, scholarly and science communication specialists, innovators, and tertiary institution leads who contribute to this realm of scholarly and science communication. I'm your host, Joy Owango, the Executive Director of the Training Center in Communication, Capacity Building Trust, based at the University of Nairobi, Chiromo Campus, Kenya. today we are delighted to welcome mr youssef torman the managing director of the arab states research and education network or asrem asrem is the regional research and and education network for north africa the mid the eastern mediterranean and the middle east the non-profit organization established in 2011 under was established under the League of Arab States and is dedicated to implementing and managing sustainable pan-Arab infrastructures for research and education. Mr. Tolman brings over 30 years of experience in ICT within higher education and scientific research And he has been pivotal in developing national and regional research and education networks across the ASREN communities. His work focuses on leveraging technology to enhance education and scientific research, fostering collaboration between ASREN institutions and their global counterparts. Welcome, Mr. Youssef Tormann."
+    "end": 116.076,
+    "text": "Welcome to Mazungumzu, African Scholarly Conversations, where we are joined by an expansive list of African policymakers, scholarly and science communication specialists, innovators, and tertiary institution leads who contribute to this realm of scholarly and science communication. I'm your host, Joy Owango, the Executive Director of the Training Center in Communication, Capacity Building Trust, based at the University of Nairobi, Chiromo Campus, Kenya. today we are delighted to welcome mr youssef torman the managing director of the arab states research and education network or asrem asrem is the regional research and and education network for north africa the mid the eastern mediterranean and the middle east the non-profit organization established in 2011 under was established under the League of Arab States and is dedicated to implementing and managing sustainable pan-Arab infrastructures for research and education. Mr. Tolman brings over 30 years of experience in ICT within higher education and scientific research And he has been pivotal in developing national and regional research and education networks across the ASEAN communities. His work focuses on leveraging technology to enhance education and scientific research, fostering collaboration between ASEAN institutions and their global counterparts. Welcome, Mr. Youssef Tormann."
   },
   {
     "speaker": "Yousef Torman",
     "start": 117.517,
+    "end": 127.733,
     "text": "Yeah, thank you. Thank you very much for this interview. And I'm happy to be with you with Africa and ASRIN is part of Africa, so we are there for you."
   },
   {
     "speaker": "Joy Owango",
     "start": 129.235,
+    "end": 137.364,
     "text": "Okay. So to start off, can you tell us a bit about your background and your journey to becoming the Managing Director of ASRIN?"
   },
   {
     "speaker": "Yousef Torman",
     "start": 139.549,
-    "text": "So, yeah, good question, a short question, but it may require a long answer, but I can make it very brief. I started as a computer engineer at the, we call it Jordan University of Science and Technology, which is one of the most advanced technological universities in the region. So I was the computing center director there for a long time. From there, actually, I learned a lot in terms of how to meet the user's requirements. At that time, we had only like a main computer with the competition on how I want a slot, I need a slot for that as well. So from there, I felt that there are good researchers from day one, but they need resources. At that time, we had only one server. So from there, after that, My university was not connected to the internet at that time. So in general, we tried to connect my university to the internet, but it took us a while until 1993 or 1994. It was connected. And I can say that my university at that time was among the first universities in the region to provide or offer services over the internet to their students. Of course, that was basic service like registration or queries on their status and so on. Maybe access to some library and so on. But it was very basic. But at that time, it was, I'm proud at that time. Moving from a university to a country, actually, when I started the network at the university, then I started to establish the National Research and Education Network of Jordan, which is called JUNet (Jordan Universities Network). So by JUNet (Jordan Universities Network), it was... Also, among the first endurance in the region, at least, it was service in 2003. It was the only university, the only endurance in the world, I can say that, that has its own dark fiber"
+    "end": 274.589,
+    "text": "So, yeah, good question, a short question, but it may require a long answer, but I can make it very brief. I started as a computer engineer at the, we call it Jordan University for Science and Technology, which is one of the most advanced technological universities in the region. So I was the computing center director there for a long time. From there, actually, I learned a lot in terms of how to meet the user's requirements. At that time, we had only like a main computer with the competition on how I want a slot, I need a slot for that as well. So from there, I felt that there are good researchers from day one, but they need resources. At that time, we had only one server. So from there, after that, My university was not connected to the internet at that time. So in general, we tried to connect my university to the internet, but it took us a while until 1993 or 1994. It was connected. And I can say that my university at that time was among the first universities in the region to provide or offer services over the internet to their students. Of course, that was basic service like registration or queries on their status and so on. Maybe access to some library and so on. But it was very basic. But at that time, it was, I'm proud at that time. Moving from a university to a country, actually, when I started the network at the university, then I started to establish the National Research and Education Network of Jordan, which is called JUnit. So by JUnit, it was... Also, among the first endurance in the region, at least, it was service in 2003. It was the only university, the only endurance in the world, I can say that, that has its own dark fiber"
   },
   {
     "speaker": "Joy Owango",
     "start": 275.47,
+    "end": 275.931,
     "text": "at that time."
   },
   {
     "speaker": "Yousef Torman",
     "start": 277.148,
-    "text": "Now it maybe has some changes, but at that time, we used to have our own dark fiber to pump whatever traffic we want on there. It took me like seven years managing that engine of Jordan, which is called JUNet (Jordan Universities Network). During that time, I worked with several colleagues from the North African and Mediterranean Arab countries to establish a regional network. It took us also maybe five years to establish Acerin. I have to thank first the European Network, Jayan, in addition to the European Commission's support for funding that. So From there, we managed to move from several steps. We established a consortium called Cameron, which is a consortium of Arab Mediterranean Research and Education Network. But we did not manage to... bring the political support for that from the League of Arab States. So we started the new initiative, which is called ASRIN. So ASRIN is the Arab state research and education network. And we are proud that finally we managed to launch and announce ASRIN as a legal entity. That was at the end of 19... 2010. There's some kind of disturbance in the Arab region, which was called... Arab Spring at that time. Oh"
+    "end": 367.926,
+    "text": "Now it maybe has some changes, but at that time, we used to have our own dark fiber to pump whatever traffic we want on there. It took me like seven years managing that engine of Jordan, which is called JUnit. During that time, I worked with several colleagues from the North African and Mediterranean Arab countries to establish a regional network. It took us also maybe five years to establish Acerin. I have to thank first the European Network, Jayan, in addition to the European Commission's support for funding that. So From there, we managed to move from several steps. We established a consortium called Cameron, which is a consortium of Arab Mediterranean Research and Education Network. But we did not manage to... bring the political support for that from the League of Arab States. So we started the new initiative, which is called ASRIN. So ASRIN is the Arab state research and education network. And we are proud that finally we managed to launch and announce ASRIN as a legal entity. That was at the end of 19... 2010. There's some kind of disturbance in the Arab region, which was called... Arab Spring at that time. Oh"
   },
   {
     "speaker": "Joy Owango",
     "start": 367.966,
+    "end": 369.868,
     "text": "yes, during the Arab Spring, yes."
   },
   {
     "speaker": "Yousef Torman",
     "start": 370.52,
-    "text": "I think the registration and the establishment of ASREN, it was officially launched at the League of Arab States by December 2010. And it took us away to register ASREN as an official legal entity in Germany, not in Arab region, because at that time it was very complicated to go in one country, which we don't know about the stability at the end. So now ASREN has been registered in Germany, as you just mentioned, due to the situation at that time. So, but we operate from the Arab region also."
+    "end": 409.019,
+    "text": "I think the registration and the establishment of Aslan, it was officially launched at the League of Arab States by December 2010. And it took us away to register Aslan as an official legal entity in Germany, not in Arab region, because at that time it was very complicated to go in one country, which we don't know about the stability at the end. So now Aslan has been registered in Germany, as you just mentioned, due to the situation at that time. So, but we operate from the Arab region also."
   },
   {
     "speaker": "Joy Owango",
     "start": 409.82,
+    "end": 433.256,
     "text": "Fantastic. Now that Atheran has been operational since 2011, even despite some of the challenges you faced during the Arab Spring, and now you're fully operational, how has the role and impact of Atheran evolved since its inception? And what do you consider to be some of the key achievements and milestones in its journey so far?"
   },
   {
     "speaker": "Yousef Torman",
     "start": 434.738,
+    "end": 488.083,
     "text": "Yes. Now, as I said, it was created with three main objectives. The first objective is to establish the Pan-Arab Research and Application Network, which is the regional network in a regional context with regional connectivity and so on. The second objective was, which I call the first objective, it was this, as I said, it was the second objective, but for me, it was the first one, which I gave a lot of priority, is to start to support endurance development in the Arab countries, so that we want real endurance and natural endurance in the Arab region. before connecting, building the regional network. So we did, this is the second objective, and the third objective is to work on services, collaboration, facilitating collaboration, bringing tools and exchange knowledge and focus"
   },
   {
     "speaker": "Joy Owango",
     "start": 488.143,
+    "end": 490.325,
     "text": "as well. That's the fourth objective, the third objective."
   },
   {
     "speaker": "Yousef Torman",
     "start": 491.649,
-    "text": "Now, let me start by the second objective, which is establishing or supporting the development of sustainable endurance in the Arab region. When ASRI started, we had only four or five mature endurance in the Arab region. Now, we did a lot of work and advocacy and support in the Arab region to further establish endurance in the Arab region. So, we did manage to Now, let's go to the conclusion. I can say that we have more than 15 in the Arab region compared to four at that time or five at that time. So I can say that many countries, and we have recently announcement from Mauritania and the Djibouti that they are now launching their NRENs. So I am proud that we supported the region, the countries to establish their NRENs. And that was a lot of advocacy, a lot of arguments with the decision makers in addition to providing the know-how on how to establish these elements. In addition to capacity building, they were included in our plans to"
+    "end": 566.388,
+    "text": "Now, let me start by the second objective, which is establishing or supporting the development of sustainable endurance in the Arab region. When ASRI started, we had only four or five mature endurance in the Arab region. Now, we did a lot of work and advocacy and support in the Arab region to further establish endurance in the Arab region. So, we did manage to Now, let's go to the conclusion. I can say that we have more than 15 in the Arab region compared to four at that time or five at that time. So I can say that many countries, and we have recently announcement from Mauritania and the Djibouti that they are now launching their enderings. So I am proud that we supported the region, the countries to establish their enderings. And that was a lot of advocacy, a lot of arguments with the decision makers in addition to providing the know-how on how to establish these elements. In addition to capacity building, they were included in our plans to"
   },
   {
     "speaker": "Joy Owango",
     "start": 567.928,
+    "end": 568.888,
     "text": "further"
   },
   {
     "speaker": "Yousef Torman",
     "start": 569.508,
+    "end": 725.725,
     "text": "have capacities to establish and to operate the network and so on. So this is the second objective. Let me go back to the first objective. Now, they were subjected to establish the Pan-Arab Research and Education Network. It's really very challenging compared to the other regions. I think Africa is the same. It's the pricing, first of all, the pricing and the monopoly in addition to political support. So all this was very complicated to establish, especially that there were no cross-border fibers, for example, in between some countries. But I can say that we managed to establish a regional point of presence, though it was in London, but it's connecting on most of the Indians in the region. We did spend a huge effort to establish something in the Arab region. We worked with the United Arab Emirates and we worked with Egypt to establish some conclusions, but they were not very conclusive. due to the monopoly, one aspect, and maybe they need some kind of regulatory approach, which we did. But it seems that it's more complicated than just writing a letter or having a meeting. It's very complicated. I know that you know that, how the monopoly works in the region. We are proud that now we have a regional port of presence in London and we are establishing now a new regional port of presence in Cyprus so that it's much closer to the region. This is one thing. Another thing we are discussing with our colleagues in the Gulf so that we have We want to meet together through the new set of optical fibers, especially that now we have the Medusa option that will be providing huge capacities for the North African countries, and it may expand also to the rest of the Mediterranean countries. So we'll be left also to have to glue with the Gulf countries. So then by that time, we can announce that we have the official Ban-Arab research allocation. Now for the third objective, which is the capacity building. We did a lot of capacity building activities. We did also several conferences, either"
   },
   {
     "speaker": "Joy Owango",
     "start": 725.745,
+    "end": 728.447,
     "text": "our annual conference or dedicated conferences for"
   },
   {
     "speaker": "Yousef Torman",
     "start": 728.487,
+    "end": 818.064,
     "text": "a specific topic, for a specific country. We did that for our lifetime. We did several workshops that are targeted either at the technical staff or the scientists or the researchers or the educators. We did that also. No time for going through the details. But if you look at the role of Asrin on that. But I like to say that now the role of research and education networks and infrastructure is more appreciated and more recognized by the policy and the decision makers, I think. Right. So that now we can see that we can receive better support, but that does not apply to all countries. I'm proud of what I've been. I don't want to mention examples in a specific country, but there are a lot of countries that now are putting further investment in the endurance. But I will not mention names, any name of any country, unless needed. I can say, so the regional aspect is more recognized by the Negro Arab States, by ESQA, which is our United Nations and I mentioned in the Arab region, in addition to the Association of Arab Universities, I mean the regional organization in the Arab country. So I think Arsenal did a good role, and there are some achievements that can speak on behalf of"
   },
   {
     "speaker": "Joy Owango",
     "start": 818.964,
+    "end": 863.379,
     "text": "us. And you mentioned something about the investment. You're seeing an increase in investment in NRINs in the Arab and MENA region. And could this be attributed with the investment in ICT infrastructure, ICT infrastructure, and support in the higher education sector? Could that be the reason why you're seeing this? Because you see, as an NREN, you're right in the middle, supporting the higher education sector through ICT infrastructure. Are you seeing that the countries that are actively supporting the NRENs are also investing more in ICT and higher education. Is that why you're saying that commonality?"
   },
   {
     "speaker": "Yousef Torman",
     "start": 864.76,
+    "end": 974.054,
     "text": "It's one of the... One of the countries now, I think, they have the ICT reform in that country, for example. They are investing in all dimensions related to ICT in the country, including that developing interest. Now it's very important for them to... to have this in power with technology, with infrastructure, so that it can better serve the reform of the ICP in the country. This is one example. Another example related to investing in connectivity, because it's... Now, you look... The first example is about the policy, the national policy. The other one is related to the demand of the users. So we have another country that they have upgraded their international link from 1 gig to 10 gig because it came out that we did a national conference in that country and they mentioned that they need to further access to CERN, for example, and so on. So the government recognized that they have to fund it. So they did fund the upgrade from 1 to 10 gigabit per second, for example. So there are some kind of... It varies from... country to country, either with its policy or demand. So we would like to take this example, for example, we would like to take the example of the demand based on the demand, decisions based on the demand to other countries so that we take this to the users so that they can further demand and that's all. On the other hand, we encourage also policy engagement on"
   },
   {
     "speaker": "Joy Owango",
     "start": 974.254,
+    "end": 997.062,
     "text": "that. Okay. So now with the rise of open access and open science, how is ASTRON promoting open science among African, North African research institutions and also the MENA region? And what initiatives or platforms has ASTRON developed to support and enhance the sharing of dissemination of research?"
   },
   {
     "speaker": "Yousef Torman",
     "start": 998.781,
+    "end": 1074.095,
     "text": "Yes, so I have to say that open science is sometimes misunderstood or perceived as open access. That is true, yeah. So I believe the first thing that we need to address in the region, and we try to do that, is what is open science exactly rather than just open access. Yes, that's one of the pillars. We also refer to the recommendation of... the UNESCO's recommendation, which actually contributed directly to these recommendations through Libsense initiative and so on, we did contribute to these recommendations. Back to the issue. As I said, we need to promote the right. What is open science exactly? It's more bringing all the opportunities to the researchers, not only researchers, but also maybe the public, for example, citizens who want access to that. So making it open, it will absolutely bring much more results in terms of better research and especially the joint kind of research. So From our point of view, we did address that. And"
   },
   {
     "speaker": "Joy Owango",
     "start": 1074.455,
+    "end": 1076.056,
     "text": "we try to bring, like,"
   },
   {
     "speaker": "Yousef Torman",
     "start": 1076.397,
-    "text": "because we are a regional organization, we want to work at the national and support the national. So in the regional dimension, we did work directly with the Association of Arab Universities, which represent the educational side of the Arab region, and the Association of Federation of Arab Scientific Research Councils, which represents the research. dimension of the Arab countries. So both now we have signed agreements with all of them, with both of them, so that ASREN will be the leader and the catalyzer and the convener for open-sense activities in the region. And we did sign another MOU with the with the UNESCO, UNESCO-Cairo region. Cairo is responsible for the Arab region. So we had so that ASIN would be also, again, the main counterpart for the open science in the Arab region in the regional context. In addition, what supports that also that we have also like experience, we have been part of the European Open Science Cloud, for example. We are there as an observer, for example, and our colleagues are contributing to that. technical task forces. So we have the experience and the partnership and so on. In addition to, we have indirectly, we were part of the development of African Open Science Platform. So if you look at Open Science, Acerin has been there in many dimensions. That's in the regional dimension. We have now, we are working with counterparts in the Arab countries so that how we can take the So we did identify a set of institutions, maybe libraries, maybe ministries. It depends on the country. Each country has its own specificity of taking the responsibility for open science and so on. So we are building a new model. So we will be supporting the national in terms of at least building the community, first of all. The community of open science responsible or practitioners. And we included that in, we tried to take the AfricaConnect3 as a vehicle for taking this further, but that it was not enough for us because for me, for us, it was only for countries, but we are talking about 22 countries. So I'd like to thank EFREC2NIC3 for helping us, but we need wider engagement. We did add that also to the new project with the European Commission, which is called Humid Plus, which will come soon and be announced. So from there, we have several dimensions. One very important aspect of the open science is How will you support open SaaS as services? Service-based open SaaS services. So we definitely need to have some kind of mechanism. It could be platform, it could be software, it could be digital infrastructure. You can call it whatever you want. I call it the mechanism or the beacon."
+    "end": 1286.024,
+    "text": "because we are a regional organization, we want to work at the national and support the national. So in the regional dimension, we did work directly with the Association of Arab Universities, which represent the educational side of the Arab region, and the Association of Arab Scientific Research Council, which represents the research. dimension of the Arab countries. So both now we have signed agreements with all of them, with both of them, so that ASEAN will be the leader and the catalyzer and the convener for open-sense activities in the region. And we did sign another MOU with the with the UNESCO, UNESCO-Cairo region. Cairo is responsible for the Arab region. So we had so that ASIN would be also, again, the main counterpart for the open science in the Arab region in the regional context. In addition, what supports that also that we have also like experience, we have been part of the European Open Science Cloud, for example. We are there as an observer, for example, and our colleagues are contributing to that. technical task forces. So we have the experience and the partnership and so on. In addition to, we have indirectly, we were part of the development of African Open Science Platform. So if you look at Open Science, Acerin has been there in many dimensions. That's in the regional dimension. We have now, we are working with counterparts in the Arab countries so that how we can take the So we did identify a set of institutions, maybe libraries, maybe ministries. It depends on the country. Each country has its own specificity of taking the responsibility for open science and so on. So we are building a new model. So we will be supporting the national in terms of at least building the community, first of all. The community of open science responsible or practitioners. And we included that in, we tried to take the Africa Connect 3 as a vehicle for taking this further, but that it was not enough for us because for me, for us, it was only for countries, but we are talking about 22 countries. So I'd like to thank EFREC2NIC3 for helping us, but we need wider engagement. We did add that also to the new project with the European Commission, which is called Humid Plus, which will come soon and be announced. So from there, we have several dimensions. One very important aspect of the open science is How will you support open SaaS as services? Service-based open SaaS services. So we definitely need to have some kind of mechanism. It could be platform, it could be software, it could be digital infrastructure. You can call it whatever you want. I call it the mechanism or the beacon."
   },
   {
     "speaker": "Joy Owango",
     "start": 1286.124,
+    "end": 1286.824,
     "text": "So"
   },
   {
     "speaker": "Yousef Torman",
     "start": 1287.484,
+    "end": 1297.544,
     "text": "we use the term cloud. But does it mean that now just boxes of servers and so on and some tools, it's everything that supports"
   },
   {
     "speaker": "Joy Owango",
     "start": 1298.085,
+    "end": 1300.225,
     "text": "us to provide the..."
   },
   {
     "speaker": "Yousef Torman",
     "start": 1303.206,
+    "end": 1346.856,
     "text": "Let's see. Let me rephrase it. To provide services to the research and research community so that they can be part of the open science way of doing research and... provide them with the access to the right tools, applications, and services in our open science club, through our open science club. So, in general, I believe we need to still work at the policy level in the regional and national context, in addition to promoting the right context. It has to be accompanied with services. Otherwise, the users will not"
   },
   {
     "speaker": "Joy Owango",
     "start": 1347.992,
+    "end": 1348.573,
     "text": "believe in you"
   },
   {
     "speaker": "Yousef Torman",
     "start": 1348.593,
+    "end": 1382.013,
     "text": "such. Telling them stories and theories, they will not like that. That's true. We have been doing that, promoting the infrastructure, but I think now we have, because we cannot demonstrate an infrastructure except that there is a network and connectivity. But now we can demonstrate that there is a service that they can touch. So we are, our plan to have the promotion advocacy together with services. These services are based on the science we can use modern medicine."
   },
   {
     "speaker": "Joy Owango",
     "start": 1382.033,
+    "end": 1395.236,
     "text": "Okay. And what has been your observation on the adoption of open science principles in the North African, Mediterranean, and Middle Eastern regions?"
   },
   {
     "speaker": "Yousef Torman",
     "start": 1396.556,
+    "end": 1397.297,
     "text": "With the advocacy"
   },
   {
     "speaker": "Joy Owango",
     "start": 1397.317,
+    "end": 1398.417,
     "text": "you've been doing, yes."
   },
   {
     "speaker": "Yousef Torman",
     "start": 1399.832,
+    "end": 1425.172,
     "text": "To be frank, in general, I have to say that many things in the Arab region, and maybe in Africa, come in championship-based rather than the government-led based. I have to say that. At least I can't say that by reason. Right. The government are engaged in a way or another, but we are personally, sometimes they lack the continuity because a new minister, I have to say it."
   },
   {
     "speaker": "Joy Owango",
     "start": 1425.232,
+    "end": 1426.213,
     "text": "Yes,"
   },
   {
     "speaker": "Yousef Torman",
     "start": 1426.893,
+    "end": 1431.476,
     "text": "yeah. Every six months we have a new minister with the new ideas. Sometimes."
   },
   {
     "speaker": "Joy Owango",
     "start": 1432.076,
+    "end": 1433.878,
     "text": "The typical problem in the continent,"
   },
   {
     "speaker": "Yousef Torman",
     "start": 1433.898,
+    "end": 1452.929,
     "text": "yes. Let's avoid politics and so on. Now, so many initiatives in the region are coming from based on championship, like people or institutional institution or a person or an organization that is interested to be there and they are trying to lead so we are catalyzing"
   },
   {
     "speaker": "Podcast Intro",
     "start": 1453.529,
+    "end": 1454.13,
     "text": "building on that"
   },
   {
     "speaker": "Yousef Torman",
     "start": 1454.41,
+    "end": 1469.632,
     "text": "but in general in general i have to say that some countries are now have stable, let's see, approach on open science. But again, it's more into open access and open data. Yes,"
   },
   {
     "speaker": "Joy Owango",
     "start": 1469.832,
+    "end": 1470.892,
     "text": "I get your point."
   },
   {
     "speaker": "Yousef Torman",
     "start": 1472.173,
+    "end": 1478.356,
     "text": "I cannot announce that, for example, one of my countries now has a real"
   },
   {
     "speaker": "Joy Owango",
     "start": 1479.176,
+    "end": 1479.496,
     "text": "open"
   },
   {
     "speaker": "Yousef Torman",
     "start": 1479.556,
+    "end": 1565.289,
     "text": "science roadmap on open science. I mean, full open science. I can see it. We are proud, for example, I don't want to mention examples again. We have some companies that have a lot of achievements, but it's more into open access and open data as well, which is good, but it's not enough to see that. We have open science. Yes, just one more thing I want to add. It's the coordination between efforts. I have scattered efforts everywhere on open science, even in the regional context. I keep mentioning an example that in October 2022, I was invited to a conference. Maybe you know the story. You're smiling. Yes. In the same city, in the same date, two events on open science And they both were supported by UNESCO at the same time. Oh, yes. It has to be well-organized. That's why we are trying to harmonize things in the regional context. So that when it comes to regional, when speaking with open science in the regional context, for us, ASLIN is the convener. That makes"
   },
   {
     "speaker": "Joy Owango",
     "start": 1565.309,
+    "end": 1566.43,
     "text": "sense."
   },
   {
     "speaker": "Yousef Torman",
     "start": 1566.53,
+    "end": 1586.409,
     "text": "So I think efforts has to be, and I have to mention one country without name again, that we have three initiatives on open science, and we don't know who will be leading, who will have more influence as well. Sorry. No, no, I"
   },
   {
     "speaker": "Joy Owango",
     "start": 1586.449,
+    "end": 1588.55,
     "text": "get you. So basically what you're saying is"
   },
   {
     "speaker": "Yousef Torman",
     "start": 1588.59,
+    "end": 1591.731,
     "text": "that... Coordination is very important. Exactly."
   },
   {
     "speaker": "Joy Owango",
     "start": 1592.111,
+    "end": 1592.732,
     "text": "Exactly. Yeah."
   },
   {
     "speaker": "Yousef Torman",
     "start": 1593.843,
+    "end": 1598.067,
     "text": "And approach to direct people, establishing a community of practices."
   },
   {
     "speaker": "Joy Owango",
     "start": 1598.307,
+    "end": 1684.839,
     "text": "Exactly, exactly. Yeah. So having a central convener will help catalyze the conversations to make sure that you have uniform conversations. And also, I get where now, what Astrid is really trying to push for in the Northern African and Middle Eastern region. Because right now, open science is a buzzword, and you don't want so many people having questions. similar conversations, it needs to be centralized. And one of those people who are centralizing it have to be leaders in the higher education sector. And I think Hasren is suitably placed for that. But I also understand your frustration when you're saying that your observation, the immediate observation is that the understanding of Most of the countries in Northern Africa, Middle East and the Mediterranean take on open sciences, open access and even open data. And I think it's mainly because it's a low hanging fruit. It's how you protect your data, to what degree do you share your data. And when it comes to open access, it's about publishing. It's the cost of publishing, the visibility of your work. But there's a need for understanding the bigger picture on what open science entails and how it can support the academic community holistically. And I believe ASREM would be a great partner to work with in convening such conversations and bringing in all the stakeholders so that you can have cohesive conversations. Am I right?"
   },
   {
     "speaker": "Yousef Torman",
     "start": 1685.36,
+    "end": 1767.583,
     "text": "Yeah. I think this is a model that we believe that it's based on consultation and observation. It's not only just we decided to be there, but it's we have seen that. It has been, as I said there, It has been recognized by the regional player. Nobody can come and say, I want open science. So open science is not something that you can buy, something that you can deploy, you adapt. So I think selling the idea of the open science is very important. So for me, I don't understand open science beyond what I just said. But this is what is the language that we want to sit at the level of policy and so on. And then we will have later on, we can have the task forces, we'll have the experts who will be who will be working on setting the strategy or the roadmaps or the policy in addition to that technical infrastructure and so on. So it has to be organized. It has to be organized. And it cannot be like, before it's just like, it has to be, again, organizing this I think, at least for the region that we have brotherhood between the countries and we have relations and so on, this is, I think, the model that we are happy to adopt."
   },
   {
     "speaker": "Joy Owango",
     "start": 1768.473,
+    "end": 1799.985,
     "text": "Okay. So now as we are looking ahead, what do you see are the collaborative initiatives that you're working with your sister regional research networks? In this case, the Ubuntu Alliance, that represents Eastern Europe. and Southern Africa and Wakran, which represents Western and Central Africa. So what joint initiatives or best practices are you sharing among these networks?"
   },
   {
     "speaker": "Yousef Torman",
     "start": 1801.134,
-    "text": "and Africa, Arab Research and Education Network for North Africa. Yes, plus that. So we call ourselves, the three regional networks, we call ourselves AfREN. AfREN. AfREN goes for African Family Research and Education Network. So we try to work as a family. So we have I call Boubakar Barry, I have to mention Boubakar Barry, who's the CEO of Wakarin. We are brothers, working with sister organization. The same for Madara Ogot and his successors. We had a lot of work together. Maybe the best thing that brought us all together is the Africa Connect project, I have to say. And I have to thank the European Commission and Jayant for making this opportunity for us to work, fund our work and our meetings, our discussions, and also our plans. So I'd like to thank Africa Connect. Now, Africa Connect was the main means for us to collaborate and establish. We... Even before the open science evolves, that's when we started in Africa to get engaged with science communities. This is what I like because we could recognize the needs and the actual technologies or tools, whatever they need. So we started with One community in AfricaConnect2, which was called AFRIGEO, which is the African Group in Earth Observation. It was a very big community. And later on, we were engaged with the GMS in Africa, which is Global Monetary and Earth Security, with the African Commission. In addition, now we are engaged with around 10 communities in the continent. So we tried to meet with them, discuss with them so that we can recognize what do they need. So this part, I think, was key for us to see how they can be better served. And when UNESCO announced its open science recommendations and so on, we were there that this is the means. This is how we can meet the needs and the requirements of these. So I am proud of working with the And if you see that, for example, Aselin was the lead in joining with the GEO, which is a community that comes from based on state membership. But Aselin was there as an observer, associate, actually. It was, I think, as member, associate, whatever. I don't remember the name. But we were there as Enrin. that we are part of the, how can GEO achieve, when I say GEO, it's a group of earth observation, how they can do research based on the earth observation, observatories, results, and satellite images, and so on, how they can better do the analysis and the research and the manipulation data so that they can report to the decision makers. So this, ASIN was efficient, and then it does follow. WACRIN and the Boutilet Alliance are all engaged in this community. So this is a good example that we are now more engaged. So we are coordinating all together. Three of us also contributed to the African Open Science Platform as one of the vehicles of open science in the African continent. Yeah, so... We are always in coordination. Even we are not part of the new project with Africa Connect Four, but we are still coordinating. And you see us in different conferences. We always meet and we discuss. We are coordinating in a very good manner."
+    "end": 2041.08,
+    "text": "and Africa, Arab Research and Education Network for North Africa. Yes, plus that. So we call ourselves, the three regional networks, we call ourselves AFRIN. AFRIN. AFRIN goes for African Family Research and Education Network. So we try to work as a family. So we have I call Bubakar, I have to mention Bubakar, who's the CEO of Wakarin. We are brothers, working with sister organization. The same for Madara Ogot and his successors. We had a lot of work together. Maybe the best thing that brought us all together is the Africa Connect project, I have to say. And I have to thank the European Commission and Jayant for making this opportunity for us to work, fund our work and our meetings, our discussions, and also our plans. So I'd like to thank Africa Connect. Now, Africa Connect was the main means for us to collaborate and establish. We... Even before the open science evolves, that's when we started in Africa to get engaged with science communities. This is what I like because we could recognize the needs and the actual technologies or tools, whatever they need. So we started with One community in Africa Connect 2, which was called AFRIGEO, which is the African Group in Earth Observation. It was a very big community. And later on, we were engaged with the GMS in Africa, which is Global Monetary and Earth Security, with the African Commission. In addition, now we are engaged with around 10 communities in the continent. So we tried to meet with them, discuss with them so that we can recognize what do they need. So this part, I think, was key for us to see how they can be better served. And when UNESCO announced its open science recommendations and so on, we were there that this is the means. This is how we can meet the needs and the requirements of these. So I am proud of working with the And if you see that, for example, Aselin was the lead in joining with the GEO, which is a community that comes from based on state membership. But Aselin was there as an observer, associate, actually. It was, I think, as member, associate, whatever. I don't remember the name. But we were there as Enrin. that we are part of the, how can GEO achieve, when I say GEO, it's a group of earth observation, how they can do research based on the earth observation, observatories, results, and satellite images, and so on, how they can better do the analysis and the research and the manipulation data so that they can report to the decision makers. So this, ASIN was efficient, and then it does follow. WACRIN and the Boutilet Alliance are all engaged in this community. So this is a good example that we are now more engaged. So we are coordinating all together. Three of us also contributed to the African Open Science Platform as one of the vehicles of open science in the African continent. Yeah, so... We are always in coordination. Even we are not part of the new project with Africa Connect Four, but we are still coordinating. And you see us in different conferences. We always meet and we discuss. We are coordinating in a very good manner."
   },
   {
     "speaker": "Joy Owango",
     "start": 2041.878,
+    "end": 2057.283,
     "text": "Fantastic. So looking ahead, what do you see as the next big challenges or opportunities for NRENs in Africa and the Arab region? And how is ASREN positioning itself to address these challenges and opportunities?"
   },
   {
     "speaker": "Yousef Torman",
     "start": 2059.724,
+    "end": 2064.046,
     "text": "I said the challenges at the beginning. They remain the challenge. The"
   },
   {
     "speaker": "Joy Owango",
     "start": 2064.066,
+    "end": 2064.286,
     "text": "first"
   },
   {
     "speaker": "Yousef Torman",
     "start": 2064.306,
+    "end": 2067.847,
     "text": "challenge. Funding is always the challenge. It's always an issue. It's always"
   },
   {
     "speaker": "Podcast Intro",
     "start": 2067.867,
+    "end": 2068.067,
     "text": "the"
   },
   {
     "speaker": "Yousef Torman",
     "start": 2068.507,
-    "text": "challenge. It's always the challenge. Now, in addition to the political support, which is what sometimes is missing or sometimes it's misunderstood, now the promotion also. I think the challenge is we are not promoting ourselves as the mechanism. For example, I have to say that we are promoting ourselves as infrastructure providers. So nobody can understand. If you go to a minister and tell him that I need a switch and router and connectivity, he will not understand me. But if you go out and speak him that I have I can help you in achieving one of the SDGs, for example, to do research for achieving, for example, climate actions or so. He will listen to you. So my message. And if you see one of my... I did some kind of presentation in one of the OpenTunet Alliance conferences, and it was also adapted by the G\u00c9ANT network, so that they published an article on my... view on having a new role of immigrants. So if you allow me, maybe I took much time, but maybe this is worth to invite immigrants to to look at the observations. What is going around the world? What are the challenges of the global challenges and the global trends? You look at the global digital compact, I don't know what numbers it is now. They have the challenges and they need it. For example, again, climate access. Do you want to do to achieve climate actions and to do research on that? But at the policy, they are not aware that there are Endurance that can support them. So my message is that my Endurance, please, my Endurance, my family of Endurance, you need to look what is going on around and take the opportunity to speak the language of science, not to speak the language of technical. Not the Endurance"
+    "end": 2204.504,
+    "text": "challenge. It's always the challenge. Now, in addition to the political support, which is what sometimes is missing or sometimes it's misunderstood, now the promotion also. I think the challenge is we are not promoting ourselves as the mechanism. For example, I have to say that we are promoting ourselves as infrastructure providers. So nobody can understand. If you go to a minister and tell him that I need a switch and router and connectivity, he will not understand me. But if you go out and speak him that I have I can help you in achieving one of the SDGs, for example, to do research for achieving, for example, climate actions or so. He will listen to you. So my message. And if you see one of my... I did some kind of presentation in one of the OpenTunet Alliance conferences, and it was also adapted by the Giant Network, so that they published an article on my... view on having a new role of immigrants. So if you allow me, maybe I took much time, but maybe this is worth to invite immigrants to to look at the observations. What is going around the world? What are the challenges of the global challenges and the global trends? You look at the global digital compact, I don't know what numbers it is now. They have the challenges and they need it. For example, again, climate access. Do you want to do to achieve climate actions and to do research on that? But at the policy, they are not aware that there are Endurance that can support them. So my message is that my Endurance, please, my Endurance, my family of Endurance, you need to look what is going on around and take the opportunity to speak the language of science, not to speak the language of technical. Not the Endurance"
   },
   {
     "speaker": "Joy Owango",
     "start": 2204.544,
+    "end": 2206.124,
     "text": "language. Yes,"
   },
   {
     "speaker": "Yousef Torman",
     "start": 2206.544,
+    "end": 2286.674,
     "text": "yes. So we keep shopping Endurance infrastructure technology, routers which then get This doesn't resonate with the decision. But for example, I have to say that ASLIN also is leading, and I hope that others will follow. ASLIN is now the convener of the Arab Science Corporation Summit. So we are promoting science cooperation let's see, we want you to cooperate. Once they say, yes, we want to cooperate, then you can say, you need this technology. It comes, but first of all, we need to have them to understand that they need to cooperate to achieve the SDGs, to achieve the challenges of the region and the earth observation requirements and all of that. And I have to say that the United Nations is ready for that. United Nations is, now we have the, which is called the a global science summit that comes together with the United Nations General Assembly. It's a huge event. It comes around with thousands of speakers for around three weeks. And we asked him as part of one of the conveners for that."
   },
   {
     "speaker": "Joy Owango",
     "start": 2288.836,
+    "end": 2292.058,
     "text": "If you look, the United Nations now"
   },
   {
     "speaker": "Yousef Torman",
     "start": 2292.098,
+    "end": 2342.696,
     "text": "is working for what is beyond SDG. So they are saying it's called the summit, future summit or summit for the future or something like that. And this planning is coming with three main pillars. sustainability, solidarity, and science. So we need to take this opportunity to see that science is at the radar of the United Nations at the top radar. So if you look at that, science is there and we achieve, we serve science through not only infrastructure, but also tools Clouds for open science and so on. So I believe the message now, my message to my endurance and regional network is the language"
   },
   {
     "speaker": "Joy Owango",
     "start": 2345.337,
+    "end": 2346.458,
     "text": "that is different now."
   },
   {
     "speaker": "Yousef Torman",
     "start": 2346.478,
+    "end": 2375.461,
     "text": "Don't go out and say, I need a laptop, I need a switch. for me I would go to a minister for example I tell him how can you achieve SDGs he said maybe we need to do more research more education yes that's exactly what you need more tools we are there to provide these tools and these tools will require better infrastructure so I think we have to commit to take it the other way around I hope I would like this message to be shared with everyone"
   },
   {
     "speaker": "Joy Owango",
     "start": 2377.013,
+    "end": 2460.182,
     "text": "Fantastic. And I think that's a nice way to wind up because what you're seeing is that there's a need for increased cohesive conversations. Despite the language barrier, it shouldn't be a hindrance in making sure that... the stakeholders have access to the support and the services. But most importantly, what you've noted is that as much as you're a technical partner, and when I say you as an NREN, it means just not only us, but also the other NRENs, you need to stop having conversations from an NREN technical level, but from a service provider level, such that the community can know how you can support them. But it's also good to see the developments that are happening in the Arab region, the various levels of adoption, and also the understanding, even though it's just the beginning, the understanding of what entails open science, even if they're just looking at the pillars, certain pillars like open data and open access. I believe it is the beginning of such conversations. that can lead to national cohesive conversations on open science and the contribution of Asrin to this. So thank you so much, Yosef. Thanks for your time. This has been a very interesting conversation. And goodbye for now."
   },
   {
     "speaker": "Yousef Torman",
     "start": 2462.165,
+    "end": 2463.887,
     "text": "Thank you. Thank you very much. See you. Goodbye."
   },
   {
     "speaker": "Podcast Intro",
     "start": 2466.085,
+    "end": 2484.587,
     "text": "Thanks for joining us on today's episode of Mazum Kumso Podcast. Be sure to subscribe and follow us on all our channels for more updates and for candid stories by researchers, policymakers, higher education leaders, and innovators on their journeys. See you in our next episode."
   }
 ]

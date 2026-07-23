@@ -1,7 +1,34 @@
-{
-  "policy": 279,
-  "data": 137,
-  "research": 116,
-  "documents": 62,
-  "public": 50
-}
+[
+  [
+    "policy",
+    279
+  ],
+  [
+    "data",
+    137
+  ],
+  [
+    "research",
+    116
+  ],
+  [
+    "documents",
+    62
+  ],
+  [
+    "public",
+    50
+  ],
+  [
+    "different",
+    43
+  ],
+  [
+    "analysis",
+    42
+  ],
+  [
+    "impact",
+    40
+  ]
+]

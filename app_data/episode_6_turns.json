@@ -2,241 +2,289 @@
   {
     "speaker": "Podcast Intro",
     "start": 1.485,
+    "end": 17.264,
     "text": "Welcome to Mazum Gumzo, African Scholarly Conversations, a podcast that highlights the perspectives of various stakeholders in academia and research fields across Africa through open dialogue of Mazum Gumzo on scholarly communication in Africa."
   },
   {
     "speaker": "Joy Owango",
     "start": 20.462,
+    "end": 129.55,
     "text": "Welcome to Mzungumso, African Scholarly Conversations, where we are joined by an expansive list of African policymakers, science communication specialists, innovators, and tertiary education institution leads who contribute to the realm of scholarly and science communication. I'm your host, Joy Owango, the Executive Director of the Training Center in Communication, capacity building trust based at the University of Nairobi, Faculty of Science and Technology in Nairobi, Kenya. Today, we have the pleasure of welcoming Ms. Hannah Wanjiko, an expert in epidemiology implementation science, clinical research, and science communication. Hannah is a graduate nurse with a master's in epidemiology, specializing in implementation science, and over eight years' experience in clinical work and research management. She currently serves as a research management officer at Gertrude Gardens Hospital Institute of Children of Child Health Research. Her contributions extend to improving quality and patient safety in healthcare settings, and she has been instrumental in training science journalists to effectively communicate complex science concepts to the public. Hannah is passionate about making science accessible, strengthening healthcare systems, and using digital platforms to engage communities about important health topics. Hannah, welcome to Mazungumzo. Thank you so much, Joy. It's a pleasure to be here. Oh, yes. Your bio highlights your experience in clinical research, research management and science communication. But in your words, who is Hannah and what has inspired your journey into working at this intersection?"
   },
   {
     "speaker": "Hannah Wanjiku",
     "start": 131.611,
-    "text": "Right. Thank you so much for such a lovely introduction. So in my own words, Hannah is a curious, purpose-driven individual who believes deeply in the power of science to change lives, but only if it's accessible and applied where it matters most. Right. I trained and worked as a nurse, and very early on I was struck by how often healthcare providers on the ground were doing the best they could with limited information and outdated guidelines. That experience opened my eyes to the gap between research and real-world experience. So my journey began in the clinical nursing, and while I loved bedside patient care, I constantly found myself asking questions like, Where are we doing things the way we are doing? There were a lot of shortcuts as well. That curiosity nudged me towards research. But just to be honest, I didn't wake up one day and just know that this is what I wanted to be, a clinical researcher or a research manager. or even that I really love science communication. I was fortunate to have been surrounded by incredible mentors who saw something in me long before I fully saw it. So one of my mentors once told me, curiosity is great, but curiosity with purpose, that's powerful. They didn't just hand me opportunities, but walked with me, challenged me, and even reminded me that it's okay not to have all the answers as long as you're asking the right questions. And this is what built the curiosity in me up to date. When sometimes I doubted myself, my mentors kept reminding me with a smile that even Einstein started by asking where the apple fell. And There after discovered gravity. So the mental support and guidance helped me transition from clinical work into the world of research and eventually clinical research and eventually research management. So they taught me how to think critically, manage projects, lead with integrity, and most importantly, to never underestimate the power of clear human-centered communication. And that's where the interest in science communication actually comes from. So as I moved deeper into research, I realized what good is generating evidence if people who need it most, especially healthcare workers, the patients, policymakers, cannot understand it or even use it. That's when the science communication bug bit me. I began exploring how to make complex information digestible and even enjoyable. And that's how I ended up finding myself in an NGO that I had a Bill and Melinda Gates Foundation funded grant that was sponsoring science journalists to publish science stories in media. And, um, I began exploring how to make this scientific information simpler and consumable by the lay person. Because if we can explain space travel to kids in a cartoon, then we should be able to explain health research to the public in a way that is meaningful."
+    "end": 322.222,
+    "text": "Right. Thank you so much for such a lovely introduction. So in my own words, Hannah is a curious, purpose-driven individual who believes deeply in the power of science to change lives, but only if it's accessible and applied where it matters most. Right. I trained and worked as a nurse, and very early on I was struck by how often healthcare providers on the ground were doing the best they could with limited information and outdated guidelines. That experience opened my eyes to the gap between research and real-world experience. So my journey began in the clinical nursing, and while I loved bedside patient care, I constantly found myself asking questions like, Where are we doing things the way we are doing? There were a lot of shortcuts as well. That curiosity nudged me towards research. But just to be honest, I didn't wake up one day and just know that this is what I wanted to be, a clinical researcher or a research manager. or even that I really love science communication. I was fortunate to have been surrounded by incredible mentors who saw something in me long before I fully saw it. So one of my mentors once told me, curiosity is great, but curiosity with purpose, that's powerful. They didn't just hand me opportunities, but walked with me, challenged me, and even reminded me that it's okay not to have all the answers as long as you're asking the right questions. And this is what built the curiosity in me up to date. When sometimes I doubted myself, my mentors kept reminding me with a smile that even Einstein started by asking where the apple fell. And There after discovered gravity. So the mental support and guidance helped me transition from clinical work into the world of research and eventually clinical research and eventually research management. So they taught me how to think critically, manage projects, lead with integrity, and most importantly, to never underestimate the power of clear human-centered communication. And that's where the interest in science communication actually comes from. So as I moved deeper into research, I realized what good is generating evidence if people who need it most, especially healthcare workers, the patients, policymakers, cannot understand it or even use it. That's when the science communication bug bit me. I began exploring how to make complex information digestible and even enjoyable. And that's how I ended up finding myself in an NGO that I had a BMGF funded grant that was sponsoring science journalists to publish science stories in media. And, um, I began exploring how to make this scientific information simpler and consumable by the lay person. Because if we can explain space travel to kids in a cartoon, then we should be able to explain health research to the public in a way that is meaningful."
   },
   {
     "speaker": "Joy Owango",
     "start": 322.242,
+    "end": 322.362,
     "text": "So"
   },
   {
     "speaker": "Hannah Wanjiku",
     "start": 322.402,
+    "end": 327.967,
     "text": "in short, I, Hannah, have stood on the shoulders of generous mentors,"
   },
   {
     "speaker": "Joy Owango",
     "start": 328.54,
+    "end": 328.76,
     "text": "who"
   },
   {
     "speaker": "Hannah Wanjiku",
     "start": 329.141,
+    "end": 359.193,
     "text": "have been able to guide me along the path to clinical research, eventually clinical research management, and my everyday interaction with healthcare workers, with clinicians. It keeps inspiring me to be able to venture more into this journey so that I am able to perform impactful work, because these are individuals who actually love research, but they are too busy to actually go through this research process without support. That is how."
   },
   {
     "speaker": "Joy Owango",
     "start": 359.993,
+    "end": 391.213,
     "text": "Oh, fantastic. I like some of the points you say, you know, curiosity with purpose is power. And Curious minds are the ones that drive innovation, are the ones that drive change in any ecosystem that you're in. And that leads to the next question. So from your experience, managing research within a hospital setting, what stands out to you as unique about hospital-based research management compared to that in universities or independent research institutions?"
   },
   {
     "speaker": "Hannah Wanjiku",
     "start": 393.12,
+    "end": 415.835,
     "text": "That's a great question. So managing research in a hospital setting is a unique experience. It's just like juggling science while standing in the middle of a busy emergency room in the emergency department. So one thing that really stands out is the immediacy of the environment. In hospitals, everything is centered around patient care and not so much around research."
   },
   {
     "speaker": "Joy Owango",
     "start": 416.476,
+    "end": 416.576,
     "text": "So"
   },
   {
     "speaker": "Hannah Wanjiku",
     "start": 416.616,
+    "end": 438.736,
     "text": "research doesn't happen in a vacuum. It's constantly negotiating with real-time clinical priorities, like, you know, treatment, managing emergencies and so on and so forth. Unlike in the universities or independent research institutions, where research can be more theoretical, exploratory, hospital-based research is often very applied and problem-driven."
   },
   {
     "speaker": "Joy Owango",
     "start": 439.657,
+    "end": 440.277,
     "text": "So most of"
   },
   {
     "speaker": "Hannah Wanjiku",
     "start": 440.317,
+    "end": 531.353,
     "text": "the time you are asking yourself, like, how can we do this better? How can we do this safer for the patient who is right in front of us? So there's also a very dynamic interplay between researchers and clinicians in a hospital setup. Most often, you'll find nurses, doctors, lab technicians, and even other allied healthcare professionals actively involved in research studies in a hospital setup. The diversity of input is a strength for research. But it can also mean that as a research manager, you are not just coordinating protocols and ethical approval. you are translating between worlds, making sure that the scientific fits into the clinical workflows and that the clinicians actually see the value in evidence-based practice. So that becomes a very critical role for the research management office. Another key difference is the regulatory and ethical landscape. Hospital research align not just with the national research regulations, but also with the hospital institutional policies focused on patient safety. confidentiality, and quality of care. So this adds an extra layer of complexity in research within the hospital setup, but it also keeps you grounded in what truly matters when you're undertaking your research projects."
   },
   {
     "speaker": "Joy Owango",
     "start": 532.174,
+    "end": 532.294,
     "text": "And"
   },
   {
     "speaker": "Hannah Wanjiku",
     "start": 532.334,
+    "end": 539.078,
     "text": "I have to say that one of the things that I've learned is that flexibility is a superpower in hospital research."
   },
   {
     "speaker": "Joy Owango",
     "start": 539.689,
+    "end": 542.632,
     "text": "Yeah,"
   },
   {
     "speaker": "Hannah Wanjiku",
     "start": 543.272,
+    "end": 605.217,
     "text": "yeah. You could have the most detailed study plan, but if the, let's say the pediatric ward or the surgical ward or theater is overwhelmed, and a clinician is caught up in emergencies, you need to adjust in one way or another in terms of your protocol without oversight on ethical procedures of the study. So the research will not have to stop, but it will need to evolve in one way or another. So in summary, while the university-based research might focus more on theory and discovery exploratory kinds of research we find that hospital-based research is about the relevance responsiveness and real-time impact to patients being seen within the hospital setup so we you're not just advancing knowledge but you are aiming to improve care often as it happens as you undertake your research studies within a clinical or a hospital setup"
   },
   {
     "speaker": "Joy Owango",
     "start": 605.738,
+    "end": 619.493,
     "text": "yeah yeah Interesting. So in your experience, what are some of the key challenges that African hospitals face when trying to implement effective research management systems and what practical steps can be taken to overcome these challenges?"
   },
   {
     "speaker": "Hannah Wanjiku",
     "start": 621.658,
+    "end": 636.948,
     "text": "Thank you for that. That is quite timely, especially in this time and age where we really want to expand research widely, especially in the hospital setup. So African hospitals have immense potential when it comes to generating meaningful context specific research."
   },
   {
     "speaker": "Joy Owango",
     "start": 637.788,
+    "end": 637.948,
     "text": "But"
   },
   {
     "speaker": "Hannah Wanjiku",
     "start": 638.008,
+    "end": 700.719,
     "text": "there are definitely some key challenges that can hold that potential back or most of the time tend to hold our potential back. So one of the biggest challenges is limited institutional infrastructure for research. Primarily, hospitals are set up to treat hospitals. preventive care, treatment, rehabilitative kind of care. Right. Less often are they set up for research because traditionally research has been for academic institutions or for research-based institutions. So many hospitals will tend to focus entirely on clinical care and research ends up being treated like an extra or even a luxury. So you often find there is no dedicated research office in most hospitals. There is no full-time research staff dedicated. And there is often limited administrative support, even for things like ethical submissions,"
   },
   {
     "speaker": "Joy Owango",
     "start": 700.879,
+    "end": 701.159,
     "text": "data"
   },
   {
     "speaker": "Hannah Wanjiku",
     "start": 701.199,
+    "end": 701.9,
     "text": "management,"
   },
   {
     "speaker": "Joy Owango",
     "start": 702.02,
+    "end": 706.663,
     "text": "grants applications, and so on. That's true. Yeah,"
   },
   {
     "speaker": "Hannah Wanjiku",
     "start": 706.763,
+    "end": 726.673,
     "text": "so even passionate clinicians and nurses who want to do research often have to navigate the system on their own, which ends up being discouraging, and they end up choosing other priorities because most of the time, healthcare professionals have various competing priorities trying to balance the bonds. So,"
   },
   {
     "speaker": "Joy Owango",
     "start": 727.914,
+    "end": 788.197,
     "text": "yeah. Just before I forget the question, my following question. Yes, please. Do you think there are wings of change? And I'm sorry, I've interjected because you see, this is something we're seeing a lot with most of the hospitals. I mean, there are really good hospitals and we also have really good universities out there. And there's such an opportunity for them to work closely with the university so that they can build up their research ecosystems. So are you seeing the wings of change whereby there's a slight, there's a paradigm shift on the, on hospitals now looking at research as one of the areas that they need to get involved in? Or are you still observing a situation or a scenario whereby they're still comfortable with, what do you call this? They're still comfortable with just clinical practice."
   },
   {
     "speaker": "Hannah Wanjiku",
     "start": 789.717,
+    "end": 879.609,
     "text": "Well, thank you for that. I will say lately there is some wind of change coming about. And this wind of change is really inspired by if you find one passionate researcher within the hospital setup who is bold enough to be able to voice these ideas, to voice the potential that the hospitals are sitting on, then it starts creating ideas and conversations around the potential that the hospitals have. And eventually the wind of change is actually coming along. The other thing that I will also share is the fact that some hospitals are starting to think about developing themselves into centers of excellence. And when you look through the centers of excellence, you know, centers of excellence criteria, you cannot call a specialty area a center of excellence if it does not undertake training and research. And with that objective for the hospitals... Then they start to think critically about the research agenda within the hospital setup. And we start to find ideas towards growing research infrastructures within the hospitals and also developing systems and structures that are able to encourage and support research within the hospital setup. So I am happy to say that I think things are changing slowly but surely. And I am hopeful that we are going to get there. Sure. Fantastic. So as"
   },
   {
     "speaker": "Joy Owango",
     "start": 879.81,
+    "end": 894.6,
     "text": "someone who's been involved in science communication, how important is capacity building in both research staff and the general public for improving healthcare systems? And what strategies would you recommend to build this capacity in African hospitals?"
   },
   {
     "speaker": "Hannah Wanjiku",
     "start": 896.39,
+    "end": 1055.698,
     "text": "So, thank you. So, capacity building is crucial if we want to see real sustainable improvement in healthcare outcomes. And it has to happen on both sides within the research teams and also among the general public who are also consumers of research outputs. So, let's start with the research staff, for instance. You can have brilliant clinicians, you can have brilliant healthcare workers, but if they are not equipped to ask the right questions, to design ethical and feasible research studies, or communicate their findings clearly, then their insights will remain trapped at the bedside. Right. That's why building capacity in research methodology, data interpretation, and even basic grant writing or manuscript development is very, very important. Right. having said that I'm a healthcare professional and in my primary studies when I was still in med school I was not taught how to communicate science in a way that a lay person can understand and this is where now we need to come in and equip healthcare professionals to be able to develop this skill as it's a learned skill and also try to to develop passion within them so that communicating science, capacity building in communicating science is a continuous process. And we can build a critical mass of science communicators among healthcare professionals who are technical experts when it comes to science and healthcare related research. Yes. Um, Maybe just to add also, science communication plays a huge role. And it's not just about doing the research. It's about telling the story of that research in a way that others can understand and act on. If you're not able to tell the story of that research process, those research findings then it will also just end up at a journal article and only other scientific minded people are able to read and understand otherwise if the study was on a population or on caregivers of of cancer patients then these caregivers will not be able to get these findings and it will not be able to either change their health seeking behaviors or change outcomes among those patients and so on and so forth. So evidence is only powerful if people really understand it, the targeted people, the right people understand it. Yeah. So training researchers in communication skills is critical. It's"
   },
   {
     "speaker": "Joy Owango",
     "start": 1055.718,
+    "end": 1074.811,
     "text": "critical. Absolutely. And what do you think it's important for hospitals, particularly in Africa, to invest more in structured research management systems? And what changes would you like to see to make this possible? You had talked about it in the... You had answered it partially, but now you can just give us more about this, more information about this."
   },
   {
     "speaker": "Hannah Wanjiku",
     "start": 1076.953,
+    "end": 1142.512,
     "text": "All right. So if we want African healthcare systems to grow stronger... and more self-reliant, then you have to take research seriously in our African facilities. And that starts with investing in structured research management system without within our hospitals. Absolutely. So we all know that hospitals sit at the front line of health challenges. They're able to see real-time the patterns, the gaps, the missed opportunity every single day. But without structured systems, without dedicated staff, without processes, without the right research policies, those insights will never get translated into knowledge or action. And eventually we will never become the centers of excellence that we would love to become. So it's like having a gold mine, but no tools to dig. We are just there. What is the importance? So structured management, research management systems are important to help ensure that research is ethical and Research is efficient and it's helpful."
   },
   {
     "speaker": "Joy Owango",
     "start": 1143.392,
+    "end": 1145.272,
     "text": "Yes. But even more importantly,"
   },
   {
     "speaker": "Hannah Wanjiku",
     "start": 1145.793,
+    "end": 1145.933,
     "text": "these"
   },
   {
     "speaker": "Joy Owango",
     "start": 1146.053,
+    "end": 1146.513,
     "text": "systems"
   },
   {
     "speaker": "Hannah Wanjiku",
     "start": 1147.093,
+    "end": 1149.434,
     "text": "position hospitals as producers of knowledge,"
   },
   {
     "speaker": "Joy Owango",
     "start": 1149.914,
+    "end": 1150.274,
     "text": "not just"
   },
   {
     "speaker": "Hannah Wanjiku",
     "start": 1150.314,
+    "end": 1170.543,
     "text": "consumers. So we stop importing solutions from other settings and start generating our own evidence. that are locally relevant and that are also culturally grounded because we are doing this research within our own setups and we're generating evidence from our own experiences. Absolutely."
   },
   {
     "speaker": "Joy Owango",
     "start": 1171.284,
+    "end": 1221.326,
     "text": "This makes sense because you see, on top of what you're saying, the hospital as it is, a hospital as it is, is already generating evidence. Quite a bit of data. So there's so much that comes out of the hospital that can be used to conduct research, to monitor trends, to come up with solutions that could be preventive for any potential epidemic or pandemic that might arise. So there's so much data that comes in every day. You know... In a hospital, if anything, you're right. A hospital is the goldmine of data and information. So it's an issue of having that entire ecosystem structured in a manner that can be used effectively to support the research ecosystem."
   },
   {
     "speaker": "Hannah Wanjiku",
     "start": 1221.446,
+    "end": 1221.666,
     "text": "Yeah,"
   },
   {
     "speaker": "Joy Owango",
     "start": 1221.986,
+    "end": 1226.023,
     "text": "I really like that. Yeah. Yeah,"
   },
   {
     "speaker": "Hannah Wanjiku",
     "start": 1226.083,
+    "end": 1282.144,
     "text": "so we're about to wind up. I just wanted to add something on the changes that I would like to see to make this possible. I think there are several changes, but the biggest change that I would like to see one is leadership commitment. Because I feel like without leadership commitment, that is hospital executive, being committed to seeing research, not just as an academic luxury, but as the driver of quality care and innovation within the hospital setups, then the leadership will be able to back up research and everything else will become easier. So I think the biggest change I'd like to see is leadership commitment and committing to growing research, committing to supporting research setting up of research processes and structures that support research. So for me, that is my biggest, the biggest thing that my biggest ask. Yes. You"
   },
   {
     "speaker": "Joy Owango",
     "start": 1282.344,
+    "end": 1353.554,
     "text": "need, you need, you need buying from leadership to see that, you know, especially if you're looking at the long-term vision of the hospital to become a center of excellence. If you have to achieve that goal, you need to invest in research and training, especially in scholarly communication and also investing in research management systems that can support the ecosystem on those who would want to conduct research. And of course, partnerships. Because, you know, when we began, I said there are quite a number of universities right now that have medical schools. So you do have... a series or a number of students who'd be interested in conducting their postgraduate research in the hospitals that have research ecosystems. So it's just once you set up a system, everything becomes slightly easier on how to work with the researchers and how to monitor and track their research output coming out of the respective hospital. Now, as we wind up, and you look ahead, how can hospitals collaborate more effectively with government bodies, universities, private and private sector partners to enhance research outcomes and healthcare delivery in Africa?"
   },
   {
     "speaker": "Hannah Wanjiku",
     "start": 1355.356,
+    "end": 1411.042,
     "text": "Yeah, thank you. So truly we cannot get forward If we want to build a sustainable healthcare system in Africa, we cannot afford to work in silos. Collaboration is critical, especially when the challenges are so vast in the healthcare setups, it's so complex. So it's important that hospitals collaborate with government. We all know the critical role that the government plays in setting the policy framework for healthcare research within the country. that can create incentives. They can create incentives for hospital prioritized research. They can provide funding, and they can also ensure that ethical standards are set, and also that ethical regulatory bodies are providing timely feedbacks to researchers and even to hospitals when they seek to do research."
   },
   {
     "speaker": "Joy Owango",
     "start": 1411.722,
+    "end": 1412.002,
     "text": "So"
   },
   {
     "speaker": "Hannah Wanjiku",
     "start": 1412.123,
+    "end": 1537.69,
     "text": "that collaboration is critical. Then collaboration between hospitals and universities is also important because we know universities are often breeding grounds for innovative research ideas. But these innovative research ideas need to be tested and implemented in real world settings to see what kind of outputs and outcomes or interventions, innovative interventions will come forth. So if universities and hospitals collaborate, then Hospitals will provide infrastructure where these innovative ideas can be tested and eventually it will become a big win to both parties. We also have the private sector that is very critical in this collaborative environment. And the private sector, let's talk about maybe pharmaceutical companies, about firms, about other providers. These can contribute funding, they can contribute technology or even innovation that hospitals can benefit from by gaining access and also being able to implement cutting edge services. cutting-edge research studies that eventually pharmaceutical companies are able to test their products through a real world environment. And eventually, once we have efficacy confirmed, we have efficiency confirmed, then we are able to to roll out the innovative intervention to the world. And this will also be a win. So every time there's collaboration, the goal is to have a win on both sides. And it's very important. When you work in silos, we may end up struggling and things like those. Also, there's the power of non-duplication. So if you work in silos, we duplicate a lot. But when we combine, when we come together, join hands and collaborate, then we are able to put all our energies and focus on one thing and successfully get it done. Okay."
   },
   {
     "speaker": "Joy Owango",
     "start": 1538.99,
+    "end": 1561.204,
     "text": "And thank you so much, Hannah. I enjoyed this. This was a very... exciting interview and I'm really happy with the great strides Gertrude Gardens Children's Hospital has made in including research in their in the ecosystem and also strengthening it with the research management systems thank you so much for your time and do have a lovely day"
   },
   {
     "speaker": "Hannah Wanjiku",
     "start": 1562.345,
+    "end": 1565.888,
     "text": "thank you so much joy I enjoyed the interview do have a lovely day"
   },
   {
     "speaker": "Podcast Intro",
     "start": 1567.404,
+    "end": 1585.855,
     "text": "Thanks for joining us on today's episode of Mazum Kumso Podcast. Be sure to subscribe and follow us on all our channels for more updates and for candid stories by researchers, policymakers, higher education leaders, and innovators on their journeys. See you in our next episode."
   }
 ]

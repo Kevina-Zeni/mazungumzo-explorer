@@ -1,7 +1,34 @@
-{
-  "reading": 64,
-  "women": 58,
-  "world": 45,
-  "able": 41,
-  "literacy": 40
-}
+[
+  [
+    "reading",
+    64
+  ],
+  [
+    "women",
+    58
+  ],
+  [
+    "world",
+    45
+  ],
+  [
+    "able",
+    41
+  ],
+  [
+    "literacy",
+    40
+  ],
+  [
+    "read",
+    40
+  ],
+  [
+    "spelling",
+    39
+  ],
+  [
+    "children",
+    38
+  ]
+]

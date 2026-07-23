@@ -1,7 +1,34 @@
-{
-  "review": 217,
-  "peer": 141,
-  "research": 69,
-  "work": 69,
-  "paper": 61
-}
+[
+  [
+    "review",
+    217
+  ],
+  [
+    "peer",
+    141
+  ],
+  [
+    "research",
+    69
+  ],
+  [
+    "work",
+    69
+  ],
+  [
+    "paper",
+    61
+  ],
+  [
+    "reviewers",
+    61
+  ],
+  [
+    "integrity",
+    59
+  ],
+  [
+    "people",
+    51
+  ]
+]
