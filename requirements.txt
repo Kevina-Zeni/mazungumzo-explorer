@@ -15,3 +15,6 @@ networkx
 pyannote.audio
 torch
 torchaudio
+sentence-transformers==3.0.1
+transformers==4.44.2
+huggingface-hub==0.24.6
