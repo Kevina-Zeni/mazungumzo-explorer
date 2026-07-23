@@ -1,0 +1,14 @@
+streamlit
+pandas
+plotly
+langchain-groq
+langchain-community
+langchain-core
+chromadb
+sentence-transformers
+rank_bm25
+soundfile
+groq
+langchain-huggingface
+langchain-chroma
+networkx
