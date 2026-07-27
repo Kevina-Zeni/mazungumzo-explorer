@@ -1,0 +1,56 @@
+[
+  {
+    "episode_id": "episode_1",
+    "filename": "african_public_policy.mp4",
+    "format": "webinar",
+    "guests": "Dr. Nicholas Ozor;Eliud Moyi;Michael Taylor;Joy Owango"
+  },
+  {
+    "episode_id": "episode_2",
+    "filename": "emmanuel_boakye.mp3",
+    "format": "podcast",
+    "guests": "Emmanuel Boakye"
+  },
+  {
+    "episode_id": "episode_3",
+    "filename": "exploring_illiteracy_and_prejudice.mp4",
+    "format": "webinar",
+    "guests": "Dr. Awelani Mutshembele;Wezi Nyimbili;Dr. Rana Dajani;Joy Owango"
+  },
+  {
+    "episode_id": "episode_4",
+    "filename": "fredrick_lugya.mp3",
+    "format": "podcast",
+    "guests": "Dr. Fredrick Kiwuwa Lugya"
+  },
+  {
+    "episode_id": "episode_5",
+    "filename": "hanae_lrhou.mp3",
+    "format": "podcast",
+    "guests": "Prof. Hanae Lrhoul"
+  },
+  {
+    "episode_id": "episode_6",
+    "filename": "hannah_wanjiku.mp3",
+    "format": "podcast",
+    "guests": "Hannah Wanjiku"
+  },
+  {
+    "episode_id": "episode_7",
+    "filename": "peer_review_webinar.mp4",
+    "format": "webinar",
+    "guests": "Nicole Mulaku;Daniela Saderi;Johanssen Obanda;Nicholas Outa;Ivan Oransky;Hanieh Yaghootkar;Qasit Malik;Joy Owango"
+  },
+  {
+    "episode_id": "episode_8",
+    "filename": "using_doi_webinar.mp4",
+    "format": "webinar",
+    "guests": "Joy Owango;Susan Murray;Kate Snow;Kylie Van Zyl"
+  },
+  {
+    "episode_id": "episode_9",
+    "filename": "yousef_torman.mp3",
+    "format": "podcast",
+    "guests": "Yousef Torman"
+  }
+]
