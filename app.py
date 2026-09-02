@@ -59,7 +59,7 @@ with tab_transcript:
         showlegend=False,
         height=150 + len(speakers_order) * 60,
     )
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width='stretch')
 
     talk_pct = (df.groupby("speaker")["duration"].sum() / df["duration"].sum() * 100).round(1)
     first_appearance = df.groupby("speaker")["start"].min()
@@ -97,7 +97,7 @@ with tab_query:
             store, _ = load_vector_store(ep_id)
             bm25_data = load_bm25(ep_id)
             contexts = hybrid_retrieve(question, store, bm25_data, k=3)
-            llm = ChatGroq(model="llama-3.3-70b-versatile", temperature=0, api_key=st.secrets["GROQ_API_KEY"])
+            llm = ChatGroq(model="openai/gpt-oss-120b", temperature=0, api_key=st.secrets["GROQ_API_KEY"])
             prompt = f"""Answer using ONLY the context below. If insufficient, say "Insufficient context provided."
 
 Context:
@@ -273,7 +273,7 @@ with tab_audio:
                     showlegend=False,
                     height=150 + len(demo_speakers) * 60,
                 )
-                st.plotly_chart(demo_fig, use_container_width=True)
+                st.plotly_chart(demo_fig, width='stretch')
 
                 talk_pct = (demo_df.groupby("speaker_label")["duration"].sum() / demo_df["duration"].sum() * 100).round(1)
                 first_appearance = demo_df.groupby("speaker_label")["start"].min()
@@ -292,7 +292,7 @@ with tab_audio:
 
                 if st.button("Extract themes"):
                     with st.spinner("Extracting themes..."):
-                        llm = ChatGroq(model="llama-3.3-70b-versatile", temperature=0, api_key=st.secrets["GROQ_API_KEY"])
+                        llm = ChatGroq(model="openai/gpt-oss-120b", temperature=0, api_key=st.secrets["GROQ_API_KEY"])
 
                         theme_prompt = f"""
 You are analyzing a scholarly interview transcript.
@@ -393,7 +393,7 @@ Only include relationships that are clearly meaningful.
                         showlegend=False, xaxis=dict(visible=False), yaxis=dict(visible=False),
                         margin=dict(l=0, r=0, t=20, b=0), annotations=annotations,
                     )
-                    st.plotly_chart(graph_fig, use_container_width=True)
+                    st.plotly_chart(graph_fig, width='stretch')
 
                     with st.expander("Relationship details"):
                         for rel in relationships:
@@ -424,7 +424,7 @@ Only include relationships that are clearly meaningful.
                         results = demo_store.similarity_search(demo_question, k=3)
 
                         context_text = "\n".join(r.page_content for r in results)
-                        llm = ChatGroq(model="llama-3.3-70b-versatile", temperature=0, api_key=st.secrets["GROQ_API_KEY"])
+                        llm = ChatGroq(model="openai/gpt-oss-120b", temperature=0, api_key=st.secrets["GROQ_API_KEY"])
                         demo_prompt = f"""Answer using ONLY the context below. If insufficient, say "Insufficient context provided."
 
 Context:
